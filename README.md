@@ -1,2 +1,2 @@
 # iot_spark
-R300 web application
+IoT data, influxDB and spark application
